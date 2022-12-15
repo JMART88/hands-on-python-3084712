@@ -9,5 +9,5 @@ print(message)
 
 
 def my_function():
-    greet = "Hello"
+    greet = "He llo"
     return greet
